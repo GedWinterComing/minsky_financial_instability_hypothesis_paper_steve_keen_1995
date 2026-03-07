@@ -9,6 +9,6 @@ This repository contains a Python implementation of Steve Keen's mathematical fo
 * **Academic Report:** The repository includes the original project report (`Relazione_Keen_Minsky.pdf`) detailing the theoretical framework and the mathematical derivations.
 
 ## Tech Stack
-* **Language:** Python
-* **Libraries:** SciPy (odeint), NumPy, Matplotlib
+* **Language:** Python.
+* **Libraries:** SciPy (odeint), NumPy, Matplotlib.
 * **Methodology:** Ordinary Differential Equations (ODEs), Phase Space Analysis, Complex System.
