@@ -11,4 +11,4 @@ This repository contains a Python implementation of Steve Keen's mathematical fo
 ## Tech Stack
 * **Language:** Python.
 * **Libraries:** SciPy (odeint), NumPy, Matplotlib.
-* **Methodology:** Ordinary Differential Equations (ODEs), Phase Space Analysis, Complex System.
+* **Methodology:** Ordinary Differential Equations (ODEs), Phase Space Analysis, Complex Systems.
